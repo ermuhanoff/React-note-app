@@ -1,0 +1,7 @@
+@import './constants';
+
+.add-button {
+  width: $button-add-size;
+  height: $button-add-size;
+  font-size: $button-add-font-size;
+}

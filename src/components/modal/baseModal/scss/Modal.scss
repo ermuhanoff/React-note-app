@@ -1,0 +1,9 @@
+.modal {
+  &--showed {
+    display: block;
+  }
+    
+  &__overlay {
+    background-color: rgba(0, 0, 0, 0.35);
+  }
+}
